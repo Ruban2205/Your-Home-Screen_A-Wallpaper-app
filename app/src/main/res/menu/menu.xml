@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/favourite"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_star"
+        tools:ignore="MenuTitle" />
+
+    <item
+        android:id="@+id/share"
+        tools:ignore="MenuTitle"
+        android:icon="@drawable/ic_share"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/about"
+        android:title="@string/aboutApp" />
+
+    <item
+        android:id="@+id/feedback"
+        android:title="@string/feedBack" />
+
+    <item
+        android:id="@+id/developerSite"
+        android:title="@string/devSite" />
+
+    <item
+        android:id="@+id/privacy"
+        android:title="@string/PrivacyAndTerms"/>
+
+    <item
+        android:title="@string/exit"
+        android:id="@+id/exit"/>
+
+</menu>

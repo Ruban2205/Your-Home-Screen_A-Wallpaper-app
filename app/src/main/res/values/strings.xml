@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Home Screen</string>
+
+    <!--Splash Screen-->
+    <string name="your">Your</string>
+    <string name="home">Home</string>
+    <string name="screen">Screen</string>
+    <string name="slogan">We provide exotic range of wallpapers.</string>
+    <string name="img_description">Illustrated picture</string>
+    <string name="copr.">©Ruban Creations</string>
+
+    <!--Swiper Activity-->
+    <string name="set">Set as Wallpaper</string>
+    <string name="swipeLeftOrRigt">Swipe Left/Right to Next pic</string>
+    <string name="swiperActivityLabel">Save/Set Wallpaper</string>
+
+    <!--Favourite activity-->
+    <string name="favouriteActivity">Favourite</string>
+
+    <!--Menu file-->
+    <string name="aboutApp">About app</string>
+    <string name="favourite">Favourites</string>
+    <string name="devSite">Developer</string>
+    <string name="feedBack">Feedback</string>
+    <string name="PrivacyAndTerms">Privacy policy</string>
+    <string name="exit">Exit</string>
+    <string name="share">Share</string>
+</resources>

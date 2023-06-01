@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1006968004413",
+    "project_id": "wallpaper-app-cb303",
+    "storage_bucket": "wallpaper-app-cb303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006968004413:android:674cf8e7cb297890622f54",
+        "android_client_info": {
+          "package_name": "in.rubangino.wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006968004413-6lvdud8rhgt74f164fuqh8jlsgt5ourj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.rubangino.wallpaper",
+            "certificate_hash": "f7a22b5b192a2562bab3ac62e3b3196a4c197a6f"
+          }
+        },
+        {
+          "client_id": "1006968004413-c0js2f1ki0j0ic5m3fvfaibitq86al93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHlMaGWauQsj9nr5arjWcY27IdRYIaF7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006968004413-c0js2f1ki0j0ic5m3fvfaibitq86al93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
