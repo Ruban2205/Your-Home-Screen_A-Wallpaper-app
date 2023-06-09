@@ -25,7 +25,8 @@ public class PrivacyPolicy extends AppCompatActivity {
 
         webView = findViewById(R.id.privacyWebView);
         webView.setWebViewClient(new WebViewClient());
-        webView.loadUrl("https://ruban-app-creations.blogspot.com/2021/04/your-home-screen-wallpaper-app-privacy.html");
+//        webView.loadUrl("https://ruban-app-creations.blogspot.com/2021/04/your-home-screen-wallpaper-app-privacy.html");
+        webView.loadUrl("https://www.freeprivacypolicy.com/live/4ec69fcb-bd55-41db-b555-5b5742cf2d8f");
 
         //getting action bar title
         getSupportActionBar().setTitle("Privacy and Terms");
