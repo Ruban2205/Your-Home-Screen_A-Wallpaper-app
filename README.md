@@ -4,6 +4,10 @@ This repository contains a cloud based wallpeper application.
 
 ## Languages and Tools used 
 
+## Getting Started 
 
+## Contributing
+
+## Usage
 
 ## Contact
